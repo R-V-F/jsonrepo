@@ -1,8 +1,11 @@
 {
-  "tables": 
+  "posts": [
     {
       "id": 1,
-      "title": "AxieInfinity",
+      "title": "hello"
     }
-  
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
